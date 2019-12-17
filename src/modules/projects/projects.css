@@ -1,0 +1,12 @@
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+
+#form{
+    grid-column: 1;
+}
+
+.list{
+    grid-column: 2;
+}

@@ -1,0 +1,7 @@
+<div class="container">
+    <i class="fa fa-vcard"></i>
+    <div>Imię : {{name}}</div>
+    <div>Nazwisko : {{surname}}</div>
+    <div>Email: {{email}}</div>
+    
+</div>

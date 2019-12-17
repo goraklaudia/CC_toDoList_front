@@ -1,0 +1,12 @@
+<div class="grid">
+    <h1>Nowy projekt</h1>
+    <form id="form">
+        <label for="proj_name">Nazwa projektu</label>
+        <input id="project" type="text" name="proj_name">
+        <br>
+        <label for="proj_deadline">Deadline</label>
+        <input id="deadline" type="date" name="proj_deadline">
+        <br>
+        <input id="xSubmit" type="submit" value="Dodaj projekt">
+    </form> 
+</div>

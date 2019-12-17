@@ -1,0 +1,7 @@
+<div class="grid">
+    <h2>Projekt - {nazwa}</h2>
+    <h4>Deadline - {deadline}</h2>
+    <form id="form">
+        <input type="submit" value="Dodaj zadanie">
+    </form>
+</div>
